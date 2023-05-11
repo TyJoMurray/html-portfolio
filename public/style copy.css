@@ -1,0 +1,27 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#pepe {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+}
